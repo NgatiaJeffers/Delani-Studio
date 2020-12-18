@@ -22,7 +22,11 @@ All the bugs fixed
 
 ## Technologies Used
 
-CSS framework bootstrap, JavaScript and jQuery library.
+- HTML5
+- CSS#
+- Bootstrap
+- Javascript
+- JQuery
 
 ## Support and contact details
 
