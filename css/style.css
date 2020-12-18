@@ -72,11 +72,27 @@ h1, h2, h3, h4, h5, p {
     display: none;
 }
 
+.text-click2 {
+    display: none;
+}
+
+.text-click3 {
+    display: none;
+}
+
 .what-section {
     font-size: 20px;
 }
 
 .image1 {
+    cursor: pointer;
+}
+
+.image2 {
+    cursor: pointer;
+}
+
+.image3 {
     cursor: pointer;
 }
 
