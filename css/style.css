@@ -27,6 +27,7 @@ h1, h2, h3, h4, h5, p {
 .display-3, .display-5, .display-6 {
     font-family: "Lora", sans-serif;
     color: #003b4e;
+    font-weight: 600;
 }
 
 .text {
@@ -48,4 +49,23 @@ h1, h2, h3, h4, h5, p {
     font-weight: 600;
     font-size: 20px;
     color: #000e13;
+}
+
+.service-area {
+    height: auto;
+    width: auto;
+    background-image: url('../img/backgrounds/s_image.jpg');
+    background-repeat: no-repeat;
+    color: #fff;
+    padding: 150px;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.what-section {
+    font-size: 20px;
+}
+
+.image1 {
+    cursor: pointer;
 }
