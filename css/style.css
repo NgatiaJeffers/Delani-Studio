@@ -13,3 +13,39 @@ h1, h2, h3, h4, h5, p {
     padding: 0;
     box-sizing: border-box;
 }
+
+.header {
+    height: auto;
+    width: auto;
+    background-image: url('../img/backgrounds/h_img.jpg');
+}
+
+.amaze {
+    font-weight: 600;
+}
+
+.display-3, .display-5, .display-6 {
+    font-family: "Lora", sans-serif;
+    color: #003b4e;
+}
+
+.text {
+    color: #fff;
+    margin-top: 400px;
+    font-family: "Poppins", sans-serif;
+}
+
+.mouse {
+    text-align: center;
+    margin-top: 50px;
+    padding: 80px;
+    cursor: pointer;;
+}
+
+
+.about-content {
+    padding: 50px;
+    font-weight: 600;
+    font-size: 20px;
+    color: #000e13;
+}
