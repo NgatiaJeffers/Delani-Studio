@@ -69,3 +69,30 @@ h1, h2, h3, h4, h5, p {
 .image1 {
     cursor: pointer;
 }
+
+
+.gallery img {
+    width: 350px;
+    box-shadow: 3px 3px 40px 0 rgba(0, 0, 0, 0.4);
+    border-radius: 8px;
+    position: relative;
+    background: #ecf0f1;
+    transition: 0.3s ease-in-out;
+    margin-left: 3em;
+  }
+
+  .gallery img:hover {
+    transform: rotate(5deg) scale(1.1, 1.1);
+    filter: brightness(110%);
+  }
+
+  .gallery figcaption {
+    position: absolute;
+    font-size: 30px;
+    text-shadow: 0px 0px 20px rgba(0, 0, 0, 0.5);
+    font-weight: bold;
+    margin-left: 1.8em;
+    margin-top: 0.5em;
+    transition: all linear 0.25s;
+  }
+  
