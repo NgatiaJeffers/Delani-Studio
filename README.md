@@ -8,7 +8,19 @@
 
 Our approach is unflies design, developemnt and product managment to create exceptional products.
 
+## Screenshot.
+
+<img src="img/delani.png">
+
 ## Setup/Installation Requirements
+
+To get a local copy of the site:
+
+`git clone https://github.com/NgatiaJeffers/Delani-Studio
+
+_Launch_ `index.html` file.
+
+## Tools For Creating The Website
 
 - GitHub to host the website
 - Visual Studio Code for writing codes
@@ -27,14 +39,16 @@ All the bugs fixed
 - Bootstrap
 - Javascript
 - JQuery
+  -Mail Chimp for Newsletter Subscription
 
-## Support and contact details
+## Support and Contact Details
 
+JeffDev GitHub: https://github.com/NgatiaJeffers/
 JeffDev Email: jeffersongakuya@gmail.com
 
 ### License
 
-No Licence issued. modify it at your own cost
+No Licence issued.
 Copyright (c) 2020 **JeffDev**
 
-Licensed under the [MIT license](LICENSE).
+Licensed under the [JeffDev license](LICENSE).
