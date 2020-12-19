@@ -23,6 +23,27 @@ $(document).ready(function() {
          });
     });
 
+    $("form").submit(function() {
+        var name = $("#name").val();
+        var email = $("#email").val();
+        var message = $("#message").val();
+
+        if(name == '' || email == '' || message == '') {
+            swal({
+                title: "Fields Empty!!",
+                text: "Please check the missing field!!",
+                icon: "Warning",
+                button: "ok",
+              });
+        } else {
+            swal({
+                title: "Successfully submitted",
+                icon: "success",
+                button: "Yess!!!",
+              });
+        }
+    });
+
 
 
 
